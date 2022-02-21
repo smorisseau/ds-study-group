@@ -6,7 +6,7 @@
 
 2. Add your information by generating a [Git Pull Request](https://git-scm.com/docs/git-request-pull). 
 
-    - There are many tutorials, but here is [one exmpple](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+    - There are many tutorials, but here is [one example](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
 3. There are several ways to add your name and info to the file. I will describe only the most common way: **Fork a repository**.
 
@@ -36,9 +36,9 @@
     - There are other ways to change or add content to a repo, but for now, this is easiest.
     - Once you click on the pencil icon, you will be in the editor mode.
 
-7. Add your information in CSV format:
+7. Add your information in **CSV format**:
 
-    - NUMBER,"NAME","EMAIL","TIMEZONE","GITHUB","NOTES"
+    - **NUMBER,"NAME","EMAIL","TIMEZONE","GITHUB","NOTES"**
 
 8. Go to `Propose changes` at the bottom of the page.
 
